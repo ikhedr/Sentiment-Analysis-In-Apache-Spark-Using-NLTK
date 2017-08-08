@@ -1,5 +1,5 @@
 # Sentiment-Analysis-In-Apache-Spark-Using-NLTK
-In this project i am going to analyse the sentiments of given sentence. Code will analyse whether the comment is Positive/Negative/Neutral. 
+In this project i am trying to analyse the sentiments of given sentence. Code will analyse whether the comment is Positive/Negative/Neutral. 
 Here i have used PySpark (The Python Programming API provided by the Spark).<br>
 I have installed temperory standalone Spark on Ubuntu for experiments. If you want to develop it further for mass load you can connect it to clusters.<br>
 For more information about spark refere this link:-

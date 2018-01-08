@@ -81,8 +81,10 @@ class DictionaryTagger(object):
         return tag_sentence
 
 def value_of(sentiment):
-    if sentiment == 'positive': return 1
-    if sentiment == 'negative': return -1
+    if sentiment == 'positive': 
+	return 1
+    if sentiment == 'negative': 
+	return -1
     return 0
 
 def sentence_score(sentence_tokens, previous_token, acum_score):    
